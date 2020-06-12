@@ -50,7 +50,7 @@ a:hover {
 .cities { 
   text-align: center;
   font-family: verdanna;
-  color: 6495ED;
+  color: #F0FFF;
 }
 /* Section Styles */
 
@@ -90,7 +90,7 @@ header {
   background-image: url(images/gdweather.jpg); 
   background-repeat:no-repeat;
   background-size: 100% 100%;
-  background-color: papayawhip
+  background-color: papayawhip;
   padding-top: 60px;
 }
 header {
